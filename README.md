@@ -8,7 +8,7 @@ Step into the repository of HR-PULSE - Human Resources Policy Understanding and 
 ### 🤝 **Team Members:**
 
 -   **Polat Aydin** - Lead Dynamics 365 Developer
--   **Averkios Averkios** - Junior MS Business Applications Developer
+-   **Averkios Karalis** - Junior MS Business Applications Developer
 -   **Greg Maros** - Microsoft Business Applications Team Leader
 
 ### 🌟 **Overview:**

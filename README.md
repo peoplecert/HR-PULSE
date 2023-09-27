@@ -39,4 +39,4 @@ Explore the layers of HR-PULSE through our compelling video presentation, a vibr
 
 Embrace HR-PULSE and leap into the future of AI-enhanced HR solutions where every HR policy is comprehensive, every operation is efficient, and every solution is innovative. Together, let's revolutionize the HR landscape, continuously upholding the values of Quality, Innovation, Passion, and Integrity.
 
-In unity and innovation, the PeopleCert Team.
+*In unity and innovation, the PeopleCert Team.*

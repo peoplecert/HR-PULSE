@@ -34,6 +34,6 @@ Learn more about HR-PULSE through our video presentation, highlighting its solid
 **🌐 Cross-Functional Collaboration:**
 --------------------------------------
 
-These projects manifest the synergy of cross-functional teams at PeopleCert. Born from our internal citizen developers' initiative, each project is a testament to collaborative innovation and experimental endeavor within PeopleCert, emphasizing our commitment to collective growth and learning in the technological realm. The successes of HR-PULSE underscore our unwavering dedication to continuous improvement through unified efforts and diverse skill sets.
+These projects manifest the synergy of cross-functional teams at PeopleCert. Born from our internal citizen developers' initiative, each project is a testament to collaborative innovation and experimental endeavor within PeopleCert, emphasizing our commitment to collective growth and learning in the technological realm. The success of HR-PULSE underscore our unwavering dedication to continuous improvement through unified efforts and diverse skill sets.
 
 In unity and innovation by the PeopleCert Team.

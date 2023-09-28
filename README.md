@@ -22,7 +22,7 @@ Attain an enhanced, current, and efficient HR inquiry response system, guarantee
 **🎥 Video Presentation**
 -------------------------
 
-Learn more about HR-PULSE through our video presentation, highlighting its solid integration and operational benefits.
+Learn more about HR-PULSE through our [video](https://drive.google.com/file/d/1B5UjJ82AwxailLeRAF9vnZhNkk7WdyAV/view?usp=drive_link) presentation, highlighting its solid integration and operational benefits.
 
 **🤝 Team Members:**
 --------------------

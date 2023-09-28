@@ -1,7 +1,7 @@
 **HR-PULSE by PeopleCert Team**
 ===============================
 
-🌟 **Welcome to the HR-PULSE Project!**
+### 🌟 **Welcome to the HR-PULSE Project!**
 
 Step into the repository of HR-PULSE - Human Resources Policy Understanding and Learning Supported by Experts. This project represents a significant stride in employing AI to enhance the HR knowledge base, illustrating the power of cooperative and innovative solutions at PeopleCert.
 
